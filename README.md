@@ -3,11 +3,6 @@ Style transfer is a hot topic in the fields of multimedia, image processing and 
 
 <br>
 1.Image quality <br>
-|Tables         | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 | First Header | Second Header | Third Header |
